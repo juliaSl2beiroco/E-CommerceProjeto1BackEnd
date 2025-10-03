@@ -1,0 +1,85 @@
+[2025-10-03T04:19:08.780Z] Error: CPF is already in use
+[2025-10-03T04:19:43.837Z] Error: CPF is already in use
+[2025-10-03T04:21:14.709Z] Error: CPF is already in use
+[2025-10-03T04:22:16.606Z] Error: CPF is already in use
+[2025-10-03T04:35:24.205Z] Error: All fields must be filled out
+[2025-10-03T04:37:03.387Z] Error: All fields must be filled out
+[2025-10-03T04:37:33.712Z] Error: All fields must be filled out
+[2025-10-03T04:38:01.308Z] Error: All fields must be filled out
+[2025-10-03T04:38:59.842Z] Error: All fields must be filled out
+[2025-10-03T04:39:59.405Z] Error: All fields must be filled out
+[2025-10-03T04:40:47.309Z] Error: All fields must be filled out
+[2025-10-03T04:43:10.260Z] Error: All fields must be filled out
+[2025-10-03T04:43:24.778Z] Error: All fields must be filled out
+[2025-10-03T04:43:24.784Z] Error: All fields must be filled out
+[2025-10-03T04:45:17.027Z] Error: All fields must be filled out
+[2025-10-03T04:45:17.029Z] Error: All fields must be filled out
+[2025-10-03T04:46:22.691Z] Error: CPF is already in use
+[2025-10-03T04:46:22.695Z] Error: CPF is already in use
+[2025-10-03T04:53:17.087Z] Error: CPF is already in use
+[2025-10-03T04:53:17.095Z] Error: CPF is already in use
+[2025-10-03T04:54:04.890Z] Error: CPF is already in use
+[2025-10-03T04:54:04.897Z] Error: CPF is already in use
+[2025-10-03T04:54:31.862Z] Error: CPF is already in use
+[2025-10-03T04:54:31.879Z] Error: CPF is already in use
+[2025-10-03T04:54:31.902Z] Error: Seller not found
+[2025-10-03T04:55:08.693Z] Error: Seller not found
+[2025-10-03T05:04:57.220Z] MongoServerError: Index build failed: 363903fa-7d68-49e2-bd41-1045a562648d: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:04:57.293Z] MongoServerError: Index build failed: 1c8b5aa0-1c06-40d7-ad33-4dcf5f7c2c72: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:04:57.401Z] MongoServerError: Index build failed: 470fdf62-4de6-4d7e-91ed-23878bd10c05: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:04:57.456Z] MongoServerError: Index build failed: 00e9b455-960c-48ce-bf62-2859770cd17e: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:06:25.263Z] MongoServerError: Index build failed: be6cf7db-f2fc-49a6-a3f5-7c3e657d8ea0: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:06:25.381Z] MongoServerError: Index build failed: 4198ee2f-6169-45ea-912a-047cccae0e38: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:06:25.512Z] MongoServerError: Index build failed: b4cb0cd7-b558-41ca-b890-b2343f71e0b0: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:06:25.661Z] MongoServerError: Index build failed: b118b8db-8a4c-48d6-b620-95755bf878f4: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:06:40.877Z] MongoServerError: Index build failed: a60497e2-137c-4934-a572-7c60a3c8f4c0: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:06:41.024Z] MongoServerError: Index build failed: cd22dfce-a52a-4377-a0cd-98488cdb8f2b: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:06:41.132Z] MongoServerError: Index build failed: ceb9a751-c2d9-4db7-9852-0a4c56609b7e: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:06:41.235Z] MongoServerError: Index build failed: 227e9dfa-6952-4fd6-914a-75c6d3950a6f: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:12:47.243Z] MongoServerError: Index build failed: 701d3637-37d9-4b41-b453-3a1ce1077b20: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:13:49.913Z] MongoServerError: Index build failed: 40701344-91da-4c3e-a9da-bfdf9c9e58c5: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:13:57.493Z] MongoServerError: Index build failed: 094ba91c-67a7-4509-b548-ea658be876f2: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:14:38.960Z] TypeError: Cannot read properties of undefined (reading 'deleteMany')
+[2025-10-03T05:15:15.225Z] MongoServerError: Index build failed: c56d1b32-611e-494e-9823-f8689c7bcd7b: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:16:14.373Z] MongoServerError: Index build failed: 1acedb5a-eb11-4f5f-bcd6-37e9454c7da7: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "543" }
+[2025-10-03T05:16:14.424Z] Error: Seller not found
+[2025-10-03T05:16:14.431Z] ReferenceError: result is not defined
+[2025-10-03T05:17:47.198Z] MongoServerError: Index build failed: 3cbe0e63-b873-4b30-bbea-af864c087991: Collection ecommerce.users ( e3832a58-9cf1-4f35-81c9-686c298cd5b3 ) :: caused by :: E11000 duplicate key error collection: ecommerce.users index: cpf_1 dup key: { cpf: "5432" }
+[2025-10-03T05:17:47.217Z] Error: Seller not found
+[2025-10-03T05:17:47.231Z] ReferenceError: result is not defined
+[2025-10-03T05:19:09.187Z] MongoServerError: Index build failed: eef2f9ef-3662-4e30-aa4d-4b5f9002ce4e: Collection ecommerce.sellers ( b9b19d40-b409-43d1-afa6-11321e42f5b9 ) :: caused by :: E11000 duplicate key error collection: ecommerce.sellers index: cnpj_1 dup key: { cnpj: "12345" }
+[2025-10-03T05:19:09.198Z] Error: Seller not found
+[2025-10-03T05:19:09.246Z] ReferenceError: result is not defined
+[2025-10-03T05:26:34.152Z] Error: Seller not found
+[2025-10-03T05:26:34.163Z] ReferenceError: result is not defined
+[2025-10-03T05:28:21.588Z] Error: Seller not found
+[2025-10-03T05:31:09.360Z] Error: Seller not found
+[2025-10-03T05:32:14.208Z] Error: Seller not found
+[2025-10-03T05:36:06.857Z] Error: Seller not found
+[2025-10-03T05:55:45.210Z] ReferenceError: result is not defined
+[2025-10-03T05:56:11.377Z] Error: Seller not found
+[2025-10-03T05:56:11.395Z] ReferenceError: result is not defined
+[2025-10-03T05:56:59.499Z] Error: Seller not found
+[2025-10-03T05:56:59.525Z] ReferenceError: result is not defined
+[2025-10-03T05:57:12.298Z] Error: Seller not found
+[2025-10-03T05:57:12.321Z] ReferenceError: result is not defined
+[2025-10-03T05:58:21.428Z] Error: Seller not found
+[2025-10-03T05:58:21.454Z] ReferenceError: result is not defined
+[2025-10-03T06:21:18.799Z] ReferenceError: result is not defined
+[2025-10-03T06:21:18.810Z] ReferenceError: result is not defined
+[2025-10-03T06:21:18.819Z] ReferenceError: result is not defined
+[2025-10-03T06:21:18.829Z] ReferenceError: colecao is not defined
+[2025-10-03T06:21:18.841Z] ReferenceError: result is not defined
+[2025-10-03T06:21:54.463Z] Error: Seller not found
+[2025-10-03T06:23:32.368Z] Error: CPF is already in use
+[2025-10-03T06:23:32.379Z] Error: CPF is already in use
+[2025-10-03T06:23:32.393Z] ReferenceError: result is not defined
+[2025-10-03T06:23:32.403Z] ReferenceError: colecao is not defined
+[2025-10-03T06:23:32.429Z] ReferenceError: result is not defined
+[2025-10-03T06:27:18.870Z] Error: CPF is already in use
+[2025-10-03T06:27:18.888Z] Error: CPF is already in use
+[2025-10-03T06:27:18.967Z] ReferenceError: result is not defined
+[2025-10-03T21:55:10.654Z] ReferenceError: cnpj is not defined
+[2025-10-03T21:55:10.682Z] ReferenceError: result is not defined
+[2025-10-03T21:55:10.685Z] ReferenceError: result is not defined
+[2025-10-03T21:55:10.688Z] ReferenceError: result is not defined
