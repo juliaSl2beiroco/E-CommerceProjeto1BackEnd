@@ -6,7 +6,7 @@ A temática escolhida foi **E-commerce**, com foco no armazenamento e busca de i
 
 ---
 
-## 🚀 Funcionalidades  
+## Funcionalidades  
 
 - Representação de entidades do banco de dados em **classes JavaScript**.  
 - Métodos para **inserção, busca e deleção** de dados no MongoDB.  
@@ -28,31 +28,36 @@ A temática escolhida foi **E-commerce**, com foco no armazenamento e busca de i
 - **MongoDB** (com driver oficial `mongodb`)  
 - **MongoDB Compass** para visualização dos dados 
 
-## ▶️ Como Executar  
+## Como executar o projeto
 
-1. **Clone este repositório**  
-   ```bash
-   git clone https://github.com/seu-usuario/projeto-ecommerce.git
-
+1. Clone este repositório
+  ```bash
+  git clone https://github.com/seu-usuario/projeto-ecommerce.git
+  ```
 
 2. Acesse a pasta do projeto
   ```bash
   cd projeto-ecommerce
+  ```
 
 3. Instale a dependência necessária (driver oficial do MongoDB)
   ```bash
   npm install mongodb
-
+  ```
+  
 4. Configure a conexão com o banco de dados
   - Abra o arquivo database.js.
   - Substitua a URL de conexão pelo seu endereço local ou do MongoDB Atlas, por exemplo:
-
     ```js
     const uri = "mongodb://localhost:27017";
     const dbName = "ecommerce";
-
+    ```
+    
 5. Execute o projeto
   ```js
   node index.js
+  ```
 
 6. Visualize os dados no banco de dados
+
+
